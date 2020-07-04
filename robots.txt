@@ -1,3 +1,3 @@
 User-agent: *
-Sitemap: http://24ohrana.github.io/sitemap.xml
+Sitemap: https://24ohrana.github.io/sitemap.xml
 Host: 24ohrana.github.io
